@@ -325,9 +325,11 @@ si tienes dudas existenciales con respecto a estas decisiones. No existe una
 ### General
 
 - [ ] Puede instalarse via `npm install --global <github-user>/md-links`
+- [ ] Crear un script en el `package.json` que transforme el codigo ES6+ a ES5.
 
 ### `README.md`
 
+- [ ] *pseudo codigo* o *diagrama de flujo* con el algoritmo que soluciona
 - [ ] Un board con el backlog para la implementación de la librería.
 - [ ] Documentación técnica de la librería.
 - [ ] Guía de uso e instalación de la librería
