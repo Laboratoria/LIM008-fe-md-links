@@ -220,16 +220,16 @@ para usarlo programáticamente.
 | Habilidad              | Nivel esperado |
 | ---------------------- | -------------- |
 | **JavaScript**         |                |
-| Estilo                 | 4              |
+| Estilo                 | 3              |
 | Nomenclatura/semántica | 3              |
-| Funciones/modularidad  | 3              |
-| Estructuras de datos   | 2              |
-| Tests                  | 4              |
+| Funciones/modularidad  | 4              |
+| Estructuras de datos   | 3              |
+| Tests                  | 3              |
 | **SCM**                |                |
 | Git                    | 3              |
 | GitHub                 | 3              |
 | **CS**                 |                |
-| Lógica                 | 3              |
+| Lógica                 | 2              |
 | Arquitectura           | 3              |
 
 ### Habilidades Blandas
