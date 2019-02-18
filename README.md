@@ -329,7 +329,8 @@ si tienes dudas existenciales con respecto a estas decisiones. No existe una
 
 ### `README.md`
 
-- [ ] *pseudo codigo* o *diagrama de flujo* con el algoritmo que soluciona
+- [ ] Colocar el *pseudo codigo* o *diagrama de flujo* con el algoritmo que
+  soluciona el problema.
 - [ ] Un board con el backlog para la implementación de la librería.
 - [ ] Documentación técnica de la librería.
 - [ ] Guía de uso e instalación de la librería
